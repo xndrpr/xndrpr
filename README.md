@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @uaquax
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me 
+-   uaquax_ (twitter) 
+-   uaquax (telegram)
+-   uaquax (instagram)
+-   uaquax (redit) 
