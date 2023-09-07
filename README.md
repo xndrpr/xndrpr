@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uaquax" alt="uaquax" /></a> </p>
-
 - 📫 How to reach me **uaquax@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
