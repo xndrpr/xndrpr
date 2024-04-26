@@ -1,5 +1,6 @@
 <div align="center">
-# Hello, I'm Alexander Prokopenko
+
+Hello, I'm **Alexander Prokopenko**
 
 ## My Projects
 ### ZGC VPN
