@@ -23,6 +23,7 @@ Hello, I'm **Alexander Prokopenko**
 
 ### Omegram
 <a href="https://github.com/velaton618/omegram">![Quantum](https://img.shields.io/badge/Omegram-pink)</a>
+</div>
 
 ## My Skills
 - C#
@@ -46,4 +47,3 @@ Hello, I'm **Alexander Prokopenko**
 
 ## 📫 My Contacts
 - [Telegram](https://t.me/velaton618)
-</div>
