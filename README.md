@@ -16,17 +16,17 @@ Hello, I'm **Alexander Prokopenko**
 <a href="https://github.com/velaton618/quantum">![Quantum](https://img.shields.io/badge/quantum-purple)</a>
 
 ### MOcean
-<a href="https://github.com/velaton618/MOcean">![Quantum](https://img.shields.io/badge/MOcean-orange)</a>
+<a href="https://github.com/velaton618/MOcean">![MOcean](https://img.shields.io/badge/MOcean-orange)</a>
 
 ### U3D-Engine
-<a href="https://github.com/velaton618/U3D-Engine">![Quantum](https://img.shields.io/badge/U3D-Engine-green)</a>
+<a href="https://github.com/velaton618/U3D-Engine">![U3D-Engine](https://img.shields.io/badge/U3D-Engine-green)</a>
 
 ### Omegram
-<a href="https://github.com/velaton618/omegram">![Quantum](https://img.shields.io/badge/Omegram-pink)</a>
+<a href="https://github.com/velaton618/omegram">![Omegram](https://img.shields.io/badge/Omegram-pink)</a>
 </div>
 
 ### Thexting
-<a href="https://github.com/velaton618/thexting">![Quantum](https://img.shields.io/badge/Thexting-black)</a>
+<a href="https://github.com/velaton618/thexting">![Thexting](https://img.shields.io/badge/Thexting-black)</a>
 </div>
 
 
