@@ -25,6 +25,11 @@ Hello, I'm **Alexander Prokopenko**
 <a href="https://github.com/velaton618/omegram">![Quantum](https://img.shields.io/badge/Omegram-pink)</a>
 </div>
 
+### Thexting
+<a href="https://github.com/velaton618/thexting">![Quantum](https://img.shields.io/badge/Thexting-black)</a>
+</div>
+
+
 ## My Skills
 - C#
     - WinForms
