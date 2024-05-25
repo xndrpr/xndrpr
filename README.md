@@ -6,6 +6,9 @@ Hello, I'm **Alexander Prokopenko**
 ### ZGC VPN
 <a href="https://wiki.zgc.su/sw/zgcvpn">![ZGC VPN](https://img.shields.io/badge/ZGC-VPN-yellow)</a>
 
+### Thexting
+<a href="https://github.com/velaton618/thexting">![Thexting](https://img.shields.io/badge/Thexting-black)</a>
+    
 ### Rustem Proxy
 <a href="https://github.com/velaton618/rustem_proxy">![Crates.io Total Downloads](https://img.shields.io/crates/d/rustem_proxy)</a>
 
@@ -23,10 +26,6 @@ Hello, I'm **Alexander Prokopenko**
 
 ### Omegram
 <a href="https://github.com/velaton618/omegram">![Omegram](https://img.shields.io/badge/Omegram-pink)</a>
-</div>
-
-### Thexting
-<a href="https://github.com/velaton618/thexting">![Thexting](https://img.shields.io/badge/Thexting-black)</a>
 </div>
 
 
