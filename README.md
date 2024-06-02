@@ -1,6 +1,6 @@
 <div align="center">
 
-Hello, I'm **Alexander Prokopenko**
+Hello, I'm **Alexander**
 
 ## My Projects
 ### ZGC VPN
@@ -48,6 +48,7 @@ Hello, I'm **Alexander Prokopenko**
     - React
     - Nest
     - Svelte
+    - Next
 
 ## 📫 My Contacts
 - [Telegram](https://t.me/velaton618)
