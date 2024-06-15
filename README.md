@@ -1,54 +1,48 @@
-<div align="center">
+# Alexander Prokopenko
 
-Hello, I'm **Alexander**
+### Languages
 
-## My Projects
-### ZGC VPN
-<a href="https://wiki.zgc.su/sw/zgcvpn">![ZGC VPN](https://img.shields.io/badge/ZGC-VPN-yellow)</a>
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-### Thexting
-<a href="https://github.com/velaton618/thexting">![Thexting](https://img.shields.io/badge/Thexting-black)</a>
-    
-### Rustem Proxy
-<a href="https://github.com/velaton618/rustem_proxy">![Crates.io Total Downloads](https://img.shields.io/crates/d/rustem_proxy)</a>
+### Technologies
 
-### Garnet Controls
-<a href="https://github.com/velaton618/GarnetControls">![NuGet Downloads](https://img.shields.io/nuget/dt/GarnetControls)</a>
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-### quantum
-<a href="https://github.com/velaton618/quantum">![Quantum](https://img.shields.io/badge/quantum-purple)</a>
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Nest](https://img.shields.io/badge/-NestJS-000?&logo=nestjs)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 
-### MOcean
-<a href="https://github.com/velaton618/MOcean">![MOcean](https://img.shields.io/badge/MOcean-orange)</a>
-
-### U3D-Engine
-<a href="https://github.com/velaton618/U3D-Engine">![U3D-Engine](https://img.shields.io/badge/U3D-Engine-green)</a>
-
-### Omegram
-<a href="https://github.com/velaton618/omegram">![Omegram](https://img.shields.io/badge/Omegram-pink)</a>
-</div>
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next](https://img.shields.io/badge/-Next-000?&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwndCSS-000?&logo=tailwindcss)
+![NextUI](https://img.shields.io/badge/-NextUI-000?&logo=nextui)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
+![Redux](https://img.shields.io/badge/-Redux%20Toolkit-000?&logo=redux)
+![MobX](https://img.shields.io/badge/-MobX-000?&logo=mobx)
 
 
-## My Skills
-- C#
-    - WinForms
-    - WPF
-- Python
-    - pygame
-    - tkinter
-    - aiogram
-    - discord.py
-    - pyqt5
-    - beautifulsoup4
-    - Flask
-- Rust
-    - gramme-rs
-    - tauri
-- Typescript/JavaScript
-    - React
-    - Nest
-    - Svelte
-    - Next
+### Full Stack Projects
 
-## 📫 My Contacts
-- [Telegram](https://t.me/velaton618)
+[![](https://img.shields.io/badge/-💬%20Thexting-000)](https://github.com/velaton618/thexting)
+[![](https://img.shields.io/badge/-🍿%20Universe-000)](https://github.com/velaton618/universe-frontend)
+[![](https://img.shields.io/badge/-🤖%20AI%20Assistant-000)](https://orgasmologist.com)
+
+### Front end Projects
+[![](https://img.shields.io/badge/-🌍%20DSF%20GEOS%20Website-000)](https://github.com/velaton618/dsfgeos)
+
+### Desktop Projects
+[![](https://img.shields.io/badge/-🌐%20ZGC%20VPN-000)](https://wiki.zgc.su/sw/zgcvpn)
+
+### Other Projects
+[![](https://img.shields.io/badge/-🦀%20Rustem%20Proxy-000)](https://github.com/velaton618/rustem_proxy)
+[![](https://img.shields.io/badge/-Ω%20Omegram-000)](https://github.com/velaton618/omegram)
+[![](https://img.shields.io/badge/-⚙️%20Dox-000)](https://github.com/velaton618/dox)
+[![](https://img.shields.io/badge/-💠%20Garnet%20Controls-000)](https://github.com/velaton618/GarnetControls)
+[![](https://img.shields.io/badge/-🧊%20U3D%20Engine-000)](https://github.com/velaton618/U3D-Engine)
+[![](https://img.shields.io/badge/-🔢%20Mocean-000)](https://github.com/velaton618/MOcean)
