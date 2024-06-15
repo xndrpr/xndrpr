@@ -16,6 +16,7 @@
 ![Nest](https://img.shields.io/badge/-NestJS-000?&logo=nestjs)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next](https://img.shields.io/badge/-Next-000?&logo=next.js)
