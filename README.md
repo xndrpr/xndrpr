@@ -47,3 +47,9 @@
 [![](https://img.shields.io/badge/-💠%20Garnet%20Controls-000)](https://github.com/velaton618/GarnetControls)
 [![](https://img.shields.io/badge/-🧊%20U3D%20Engine-000)](https://github.com/velaton618/U3D-Engine)
 [![](https://img.shields.io/badge/-🔢%20Mocean-000)](https://github.com/velaton618/MOcean)
+
+
+### My Setup
+![MobX](https://img.shields.io/badge/-Macbook%20Air%20M2-000?&logo=apple)
+![Nvim](https://img.shields.io/badge/-Nvim-000?&logo=neovim)
+![OhMyZsh](https://img.shields.io/badge/-OhMyZsh-000?&logo=zsh)
