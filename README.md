@@ -51,5 +51,5 @@
 
 ### My Setup
 ![MobX](https://img.shields.io/badge/-Macbook%20Air%20M2-000?&logo=apple)
-![Nvim](https://img.shields.io/badge/-Nvim-000?&logo=neovim)
+![NeoVim](https://img.shields.io/badge/-NeoVim-000?&logo=neovim)
 ![OhMyZsh](https://img.shields.io/badge/-OhMyZsh-000?&logo=zsh)
