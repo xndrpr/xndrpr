@@ -26,6 +26,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
 ![Redux](https://img.shields.io/badge/-Redux%20Toolkit-000?&logo=redux)
 ![MobX](https://img.shields.io/badge/-MobX-000?&logo=mobx)
+![Styled Components](https://img.shields.io/badge/-StyledComponents-000?&logo=styledcomponents)
 ![React Query](https://img.shields.io/badge/-ReactQuery-000?&logo=reactquery)
 
 
