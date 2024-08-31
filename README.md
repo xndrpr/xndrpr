@@ -26,6 +26,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
 ![Redux](https://img.shields.io/badge/-Redux%20Toolkit-000?&logo=redux)
 ![MobX](https://img.shields.io/badge/-MobX-000?&logo=mobx)
+![React Query](https://img.shields.io/badge/-ReactQuery-000?&logo=reactquery)
 
 
 ### Full Stack Projects
