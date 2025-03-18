@@ -33,7 +33,7 @@
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-💬%20Thexting-000)](https://github.com/velaton618/thexting)
-[![](https://img.shields.io/badge/-🤖%20AI%20Assistant-000)](https://orgasmologist.com)
+[![](https://img.shields.io/badge/-🦆%20AI%20Flappy%20Duck-000)](https://t.me/flappyduck_bot)
 [![](https://img.shields.io/badge/-🍿%20Online%20Cinema-000)](https://glee-peach.vercel.app)
 
 ### Front end Projects
