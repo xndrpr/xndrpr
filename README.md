@@ -29,6 +29,10 @@
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-000?&logo=styledcomponents)
 ![React Query](https://img.shields.io/badge/-ReactQuery-000?&logo=reactquery)
 
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=electron)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=expo)
+
 
 ### Full Stack Projects
 
@@ -40,6 +44,7 @@
 [![](https://img.shields.io/badge/-🌍%20DSF%20GEOS%20Website-000)](https://github.com/velaton618/dsfgeos)
 
 ### Desktop Projects
+[![](https://img.shields.io/badge/-✈️%20Telefly-000)](https://github.com/xndrpr/telefly)
 [![](https://img.shields.io/badge/-🌐%20ZGC%20VPN-000)](https://wiki.zgc.su/sw/zgcvpn)
 
 ### Other Projects
