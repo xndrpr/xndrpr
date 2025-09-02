@@ -34,28 +34,6 @@
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=expo)
 
 
-### Full Stack Projects
-
-[![](https://img.shields.io/badge/-💬%20Thexting-000)](https://github.com/velaton618/thexting)
-[![](https://img.shields.io/badge/-🍿%20Online%20Cinema-000)](https://glee-peach.vercel.app)
-
-### Front end Projects
-[![](https://img.shields.io/badge/-🦆%20Flappy%20Duck-000)](https://t.me/flappyduck_bot)
-[![](https://img.shields.io/badge/-🌍%20DSF%20GEOS%20Website-000)](https://github.com/velaton618/dsfgeos)
-
-### Desktop Projects
-[![](https://img.shields.io/badge/-✈️%20Telefly-000)](https://github.com/xndrpr/telefly)
-[![](https://img.shields.io/badge/-🌐%20ZGC%20VPN-000)](https://wiki.zgc.su/sw/zgcvpn)
-
-### Other Projects
-[![](https://img.shields.io/badge/-🦀%20Rustem%20Proxy-000)](https://github.com/velaton618/rustem_proxy)
-[![](https://img.shields.io/badge/-Ω%20Omegram-000)](https://github.com/velaton618/omegram)
-[![](https://img.shields.io/badge/-⚙️%20Dox-000)](https://github.com/velaton618/dox)
-[![](https://img.shields.io/badge/-💠%20Garnet%20Controls-000)](https://github.com/velaton618/GarnetControls)
-[![](https://img.shields.io/badge/-🧊%20U3D%20Engine-000)](https://github.com/velaton618/U3D-Engine)
-[![](https://img.shields.io/badge/-🔢%20Mocean-000)](https://github.com/velaton618/MOcean)
-
-
 ### My Setup
 ![MacMiniM4](https://img.shields.io/badge/-Mac%20Mini%20M4-000?&logo=apple)
 ![MacbookAirM2](https://img.shields.io/badge/-Macbook%20Air%20M2-000?&logo=apple)
